@@ -1,0 +1,13 @@
+{
+  "departments": {
+    "acm": {
+      "greeting": "Welcome to the Arts and Culture management department!"
+    },
+    "cm": {
+      "greeting": "Welcome to the Communication Management department!"
+    },
+    "ict": {
+      "greeting": "Welcome to the Information and Communications Technology department!"
+    }
+  }
+}

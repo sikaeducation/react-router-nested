@@ -1,0 +1,7 @@
+.AppFooter {
+  padding: 36px;
+  background-color: hsl(240, 50%, 90%);
+  color: hsl(240, 50%, 30%);
+  font-weight: 700;
+  text-align: right;
+}

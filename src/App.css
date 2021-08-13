@@ -1,0 +1,38 @@
+.App {
+  display: grid;
+  height: 100vh;
+  grid-template-rows: auto 1fr auto;
+}
+
+.App header {
+  background-color: hsl(350, 70%, 35%);
+  color: #fff;
+  padding: 24px;
+}
+
+.App header ul {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.App header li {
+  margin-right: 16px;
+}
+
+.App header li a {
+  text-decoration: underline;
+}
+
+.App header ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.App header li {
+  margin-bottom: 24px;
+}
+
+.App main {
+  padding: 24px;
+  color: hsl(350, 70%, 15%);
+}
